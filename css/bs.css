@@ -1,0 +1,20 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.demo{
+	    margin-bottom: 10px;
+	    min-height: 150px;
+	    text-align: center;
+	    font-size: large;
+	    background-color: silver;
+
+}
+.demo1{
+        margin-bottom: 10px;
+	    min-height: 310px;
+	    text-align: center;
+	    font-size: large;
+	    background-color: silver;
+
+}
